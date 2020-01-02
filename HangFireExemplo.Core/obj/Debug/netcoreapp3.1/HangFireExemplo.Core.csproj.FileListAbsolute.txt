@@ -1,0 +1,15 @@
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.deps.json
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.dll
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.pdb
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.csprojAssemblyReference.cache
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.AssemblyInfoInputs.cache
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.AssemblyInfo.cs
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.dll
+D:\Projetos\Pessoais\dotnet\HangFireExemplo.Setup\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.pdb
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.deps.json
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.dll
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\bin\Debug\netcoreapp3.1\HangFireExemplo.Core.pdb
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.AssemblyInfoInputs.cache
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.AssemblyInfo.cs
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.dll
+D:\Projetos\Pessoais\dotnet\HangFireExemplo\HangFireExemplo.Core\obj\Debug\netcoreapp3.1\HangFireExemplo.Core.pdb
